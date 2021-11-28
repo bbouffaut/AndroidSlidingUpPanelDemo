@@ -1,5 +1,1 @@
-include ':Tnt2'
-
-include 'androidslidingup'
-
-project(':androidslidingup').projectDir = new File(settingsDir, '../library/')
+include ':app'
